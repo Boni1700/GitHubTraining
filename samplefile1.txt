@@ -1,3 +1,6 @@
 This is sample file
 
 Testing Revert and Reset
+
+
+git commit pointer 2
